@@ -88,6 +88,6 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 
 💬 Feedback
 
-If you have any feedback or suggestions, feel free to reach out to me on LinkedIn ([https://www.linkedin.com/in/lahcen-alhiane-0799ba303/](https://www.linkedin.com/in/lahcen-alhiane-0799ba303/)) or create an issue.
+If you have any feedback or suggestions, feel free to reach out to me on LinkedIn ([Lahcen Alhiane](https://www.linkedin.com/in/lahcen-alhiane-0799ba303/)) or create an issue.
 
 🌟 Don't forget to star the repo if you like the project!

@@ -91,3 +91,15 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 If you have any feedback or suggestions, feel free to reach out to me on LinkedIn ([Lahcen Alhiane](https://www.linkedin.com/in/lahcen-alhiane-0799ba303/)) or create an issue.
 
 🌟 Don't forget to star the repo if you like the project!
+
+Subscribe Our Channel: [https://lnkd.in/d2h8bE3x](https://lnkd.in/d2h8bE3x)
+
+Follow Us On Facebook: [https://lnkd.in/dQwPDZfF](https://lnkd.in/dQwPDZfF)
+
+Follow Us On Tiktok: [https://lnkd.in/dcFvqfBq](https://lnkd.in/dcFvqfBq)
+
+Follow Us On Instagram: [https://lnkd.in/dYTXsSsg](https://lnkd.in/dYTXsSsg)
+
+Follow Us On Linkedin: [https://lnkd.in/dhyD5zxG](https://lnkd.in/dhyD5zxG)
+
+All About This Project In Our Blog: [https://www.onepiece-coding.blogspot.com/](https://www.onepiece-coding.blogspot.com/)

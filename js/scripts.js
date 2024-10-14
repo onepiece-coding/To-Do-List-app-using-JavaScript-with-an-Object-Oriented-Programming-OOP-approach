@@ -272,9 +272,13 @@ const todoAppTasksEl = document.querySelector('.todo-app--tasks');
 
 function renderTask(task) {
 
-    if (todoAppTasksEl.firstChild.classList.contains("empty")) {
+    if (todoAppTasksEl.children.length > 0) {
 
-        todoAppTasksEl.firstChild.remove();
+        if (todoAppTasksEl.firstChild.classList.contains("empty")) {
+
+            todoAppTasksEl.firstChild.remove();
+
+        }
 
     }
 

@@ -35,19 +35,19 @@ A simple To-Do List application built using JavaScript with Object-Oriented Prog
 
 3. Open index.html in your browser:
 
-- ** You can simply double-click the index.html file, or
+- You can simply double-click the index.html file, or
 
-- ** Use a live server extension if you are using VS Code.
+- Use a live server extension if you are using VS Code.
 
 3. Start adding tasks:
 
-- ** Enter a task in the input field and click "Add Task".
+- Enter a task in the input field and click "Add Task".
 
-- ** Tasks will be displayed in the list below.
+- Tasks will be displayed in the list below.
 
-- ** Click "Mark as Complete" to toggle a task's status.
+- Click "Mark as Complete" to toggle a task's status.
 
-- ** Click "Delete" to remove a task.
+- Click "Delete" to remove a task.
 
 🧠 OOP Concepts Explained
 

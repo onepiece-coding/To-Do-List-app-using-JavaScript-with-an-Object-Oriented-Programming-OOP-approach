@@ -250,7 +250,9 @@ const todoList = new TodoList();
 
 // Add event listeners to handle UI interactions
 
-document.querySelector('.todo-app--submit-btn').addEventListener("click", () => {
+document.querySelector('.todo-app--submit-btn').addEventListener("click", (e) => {
+
+    e.preventDefault();
 
     const taskTitle = document.getElementById("todo-app--input").value;
 

@@ -39,7 +39,7 @@ A simple To-Do List application built using JavaScript with Object-Oriented Prog
 
 - Use a live server extension if you are using VS Code.
 
-3. Start adding tasks:
+4. Start adding tasks:
 
 - Enter a task in the input field and click "Add Task".
 

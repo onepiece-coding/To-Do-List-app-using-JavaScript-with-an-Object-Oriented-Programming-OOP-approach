@@ -26,12 +26,12 @@ A simple To-Do List application built using JavaScript with Object-Oriented Prog
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/onepiece-coding/To-Do-List-app-using-JavaScript-with-an-Object-Oriented-Programming-OOP-approach.git
    
 2. Navigate to the project folder:
    
    ```bash
-   cd to-do-list-app
+   cd To-Do-List-app-using-JavaScript-with-an-Object-Oriented-Programming-OOP-approach
 
 3. Open index.html in your browser:
 

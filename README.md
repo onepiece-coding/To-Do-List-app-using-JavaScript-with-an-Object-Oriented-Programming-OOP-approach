@@ -92,14 +92,14 @@ If you have any feedback or suggestions, feel free to reach out to me on LinkedI
 
 🌟 Don't forget to star the repo if you like the project!
 
-Subscribe Our Channel: [https://www.youtube.com/@OnePieceCoding](https://www.youtube.com/@OnePieceCoding)
+Subscribe Our Channel: [OnePiece Coding](https://www.youtube.com/@OnePieceCoding)
 
-Follow Us On Facebook: [https://web.facebook.com/profile.php?id=61566236963231](https://web.facebook.com/profile.php?id=61566236963231)
+Follow Us On Facebook: [OnePiece Coding](https://web.facebook.com/profile.php?id=61566236963231)
 
-Follow Us On Tiktok: [https://www.tiktok.com/@onepiece.coding](https://www.tiktok.com/@onepiece.coding)
+Follow Us On Tiktok: [OnePiece Coding](https://www.tiktok.com/@onepiece.coding)
 
-Follow Us On Instagram: [https://www.instagram.com/onepiece__coding/](https://www.instagram.com/onepiece__coding/)
+Follow Us On Instagram: [OnePiece Coding](https://www.instagram.com/onepiece__coding/)
 
-Follow Us On Linkedin: [https://www.linkedin.com/in/lahcen-alhiane-0799ba303/](https://www.linkedin.com/in/lahcen-alhiane-0799ba303/)
+Follow Us On Linkedin: [Lahcen Alhiane](https://www.linkedin.com/in/lahcen-alhiane-0799ba303/)
 
-All About This Project In Our Blog: [https://www.onepiece-coding.blogspot.com/](https://www.onepiece-coding.blogspot.com/)
+All About This Project In Our Blog: [OnePiece Coding](https://onepiece-coding.blogspot.com/)

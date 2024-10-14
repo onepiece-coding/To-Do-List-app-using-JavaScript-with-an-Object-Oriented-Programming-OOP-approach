@@ -268,9 +268,15 @@ document.querySelector('.todo-app--submit-btn').addEventListener("click", (e) =>
 
 });
 
+const todoAppTasksEl = document.querySelector('.todo-app--tasks');
+
 function renderTask(task) {
 
-    const todoAppTasksEl = document.querySelector('.todo-app--tasks');
+    if (todoAppTasksEl.firstChild.classList.contains("empty")) {
+
+        todoAppTasksEl.firstChild.remove();
+
+    }
 
     const todoAppTaskEl = document.createElement('li');
 
@@ -328,6 +334,8 @@ function renderTask(task) {
 
         todoAppTasksEl.removeChild(todoAppTaskEl);
 
+        isEmpty();
+
     });
 
     todoAppTaskEl.appendChild(todoAppTaskActionsEl);
@@ -336,10 +344,34 @@ function renderTask(task) {
 
 }
 
+function isEmpty() {
+
+    if (todoAppTasksEl.children.length <= 0) {
+
+        const emptyEl = document.createElement("p");
+
+        emptyEl.className = "empty";
+
+        emptyEl.textContent = "No Tasks To Show!";
+
+        todoAppTasksEl.appendChild(emptyEl);
+
+    }
+
+}
+
 // Initial render of tasks from local storage
 
-todoList.getTasks().forEach((task) => {
+if (todoList.getTasks().length > 0) {
 
-    renderTask(task);
+    todoList.getTasks().forEach((task) => {
 
-});
+        renderTask(task);
+
+    });
+
+} else {
+
+    isEmpty();
+
+}

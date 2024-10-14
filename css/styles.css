@@ -228,3 +228,15 @@ body {
     cursor: pointer;
 
 }
+
+.empty {
+
+    text-align: center;
+
+    font-size: 1.4rem;
+
+    letter-spacing: 0.5px;
+
+    color: #fff;
+
+}
